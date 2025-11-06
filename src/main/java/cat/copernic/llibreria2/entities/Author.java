@@ -4,6 +4,9 @@ import java.time.Instant;
 import java.util.ArrayList;
 import java.util.List;
 
+import java.time.LocalDate;
+
+
 import org.hibernate.annotations.CreationTimestamp;   // timestamp creació automàtic
 import org.hibernate.annotations.UpdateTimestamp;     // timestamp última modificació
 
